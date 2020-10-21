@@ -40,5 +40,19 @@
     "date_add": "2020-03-11 23:54:40",
     "date_upd": "2020-03-11 23:54:40",
     "bra_ite_fk": "2"
+  },
+  {
+    "id": "4",
+    "name": "Samsung T510N Galaxy Tab A 10.1 Wi-Fi (2019) 32GB Android schwarz",
+    "description": "Bring the cinematic experience home with a widescreen Galaxy Tab A that delivers entertainment the whole family can enjoy. Feel the action come to life all around you with immersive Dolby Atmos surround sound. Browse, shop or binge-watch for hours with a long-lasting battery.",
+    "wholesale_price": "99",
+    "price": "333,33",
+    "photo_url": "https:\\/\\/www.computeruniverse.net\\/images\\/600\\/90755349B10068DE819240E18C4A29EF.jpg",
+    "stock": "333",
+    "sales": "999",
+    "active": "1",
+    "date_add": "2020-03-11 23:54:40",
+    "date_upd": "2020-03-11 23:54:40",
+    "bra_ite_fk": "2"
   }
 ]
